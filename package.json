@@ -1,0 +1,20 @@
+{
+  "name": "my-backend",
+  "version": "1.0.0",
+  "description": "Learning backend in expressjs as a beginner in backend development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "vinu",
+    "penguin"
+  ],
+  "author": "Vinayak Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
